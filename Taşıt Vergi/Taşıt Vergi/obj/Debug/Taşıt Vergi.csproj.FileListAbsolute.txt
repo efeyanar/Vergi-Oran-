@@ -1,0 +1,20 @@
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\bin\Debug\Taşıt Vergi.exe.config
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\bin\Debug\Taşıt Vergi.exe
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\bin\Debug\Taşıt Vergi.pdb
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt_Vergi.Properties.Resources.resources
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.csproj.GenerateResource.cache
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.exe
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.pdb
+C:\Users\Murat\source\repos\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt_Vergi.Form1.resources
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\bin\Debug\Taşıt Vergi.exe.config
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\bin\Debug\Taşıt Vergi.exe
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\bin\Debug\Taşıt Vergi.pdb
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt_Vergi.Form1.resources
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt_Vergi.Properties.Resources.resources
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.exe
+C:\Users\Murat\Desktop\Taşıt Vergi\Taşıt Vergi\obj\Debug\Taşıt Vergi.pdb
